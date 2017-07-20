@@ -1,0 +1,35 @@
+body {
+	background-color: #D8D8D8;
+	height: 600px;
+}
+p{
+	color: red;
+}
+
+input {
+display: block;
+width: 60%;
+margin: 10px;
+}
+
+img {
+	width: 85px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+.contenedor{
+	background-color: orange;
+	height: 100%;
+}
+
+.divRegistro{
+	/*height: 20%;*/
+	background-color: yellow;
+}
+
+.divAlmacen{
+	background-color: pink;
+}
